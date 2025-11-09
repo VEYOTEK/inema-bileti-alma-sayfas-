@@ -1,12 +1,17 @@
 # 🎬 Sinema Bileti Alma Sistemi
-<img width="1908" height="861" alt="image" src="https://github.com/user-attachments/assets/43c0c72f-c515-423a-9cb6-2098327d2bc5" />
+
 
 Hoş geldiniz! 🍿  
 Bu proje, kullanıcıların rahatça sinema bileti almasını, filmleri görüntülemesini ve kullanıcı dostu bir panelle işlemlerini yönetmesini sağlayan bir **sinema bilet alma uygulamasıdır**.
-<img width="1920" height="1054" alt="image" src="https://github.com/user-attachments/assets/9984ff48-956b-4a54-81cf-9bca22046649" />
+
+<img width="1920" height="727" alt="image" src="https://github.com/user-attachments/assets/49229919-ca13-46c6-87f3-b83e1bc519a2" />
+
 
 ## 🚀 Özellikler
-<img width="1910" height="808" alt="image" src="https://github.com/user-attachments/assets/000ee60c-55c5-4606-9c4e-f891bdc1189d" />
+<img width="1067" height="503" alt="image" src="https://github.com/user-attachments/assets/cf963892-43a8-4d27-9889-9028e66ce060" /> <img width="790" height="419" alt="image" src="https://github.com/user-attachments/assets/ab8f118e-f3a1-4190-9dfc-41107781c9dc" />
+
+<img width="1289" height="633" alt="image" src="https://github.com/user-attachments/assets/405e1dd0-b63e-4e8f-b927-3f332515be9e" />
+
 
 - **Kullanıcı Kaydı & Girişi**  
   Kullanıcılar güvenli şekilde kayıt olabilir ve oturum açabilir.
@@ -19,6 +24,9 @@ Bu proje, kullanıcıların rahatça sinema bileti almasını, filmleri görünt
 - **Müşteri Paneli**  
   Kullanıcıya özel panel ile bilet takibi ve yönetimi.
 
+  <img width="1014" height="681" alt="image" src="https://github.com/user-attachments/assets/4816f84b-9600-411b-9d99-41ee770c30e0" />
+
+
 ## 🔥 Kullanılan Teknolojiler
 
 - **PHP** (Sunucu tarafı kodlama)
@@ -26,7 +34,8 @@ Bu proje, kullanıcıların rahatça sinema bileti almasını, filmleri görünt
 - **HTML5 & CSS3** (Özel stiller & responsive tasarım, Bootstrap ve Tailwind entegrasyonu)
 - **JavaScript**  
 - **FontAwesome** ve **Google Fonts** ile modern görsellik
-<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/c0501fa4-a33d-41c4-adb7-0c0bd3c4f723" />      <img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/c5961847-3bb7-4eaf-ac8b-6b4379822b6d" />
+
+<img width="1082" height="904" alt="image" src="https://github.com/user-attachments/assets/1d58781e-fda8-43ef-a37a-54124bed03c7" />
 
 
 ## 🛠️ Koddan Öne Çıkanlar
